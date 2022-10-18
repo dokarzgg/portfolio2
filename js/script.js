@@ -1,0 +1,1 @@
+const txtElement = ['Daffa']
